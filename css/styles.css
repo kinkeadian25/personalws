@@ -29,19 +29,21 @@ hr {
   width: 4%;
   margin: 0 auto;
 }
+a:hover{
+  color: #EAF6F6
+}
 .footer-link {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
-  padding: 35px;
+  padding: 25px;
   font-weight: bolder;
-  font-style: normal;
-  font-weight: bolder;
+  text-decoration: none;
 }
 
 .top-container {
   background-color: #EAF6F6;
   position: relative;
-  padding-top: 100px;
+  padding-top: 80px;
 }
 
 .middle-container {
@@ -52,7 +54,7 @@ hr {
   background-color: #66BFBF;
   color: #11999E;
   padding: 20px;
-  line-height: 4;
+  line-height: 2.5;
 }
 
 .pro {
@@ -60,12 +62,12 @@ hr {
 }
 .bottom-cloud{
   position: absolute;
-  left: 200px;
+  left: 250px;
   bottom: 300px;
 }
 .top-cloud{
   position: absolute;
-  right: 200px;
+  right: 250px;
   top: 50px;
 }
 .skill-row1{
@@ -99,7 +101,7 @@ hr {
   bottom: 25px;
 }
 .profile{
-  width: 40%;
+  width: 30%;
   margin: 0 auto 100px auto;
   line-height: 2;
 }
